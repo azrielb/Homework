@@ -1,0 +1,37 @@
+The all people in the phone-book are:
+-------------------------------------
+
+name:  Asher.	email:     Asher@domain.com.	fax: 4347120347.	phone: 0984713270.	streetAddress: Asher's address
+name: Binyamin.	email:  Binyamin@domain.com.	fax: 1701270012.	phone: 1928740914.	streetAddress: Binyamin's address
+name:    Dan.	email:       Dan@domain.com.	fax: 0287404708.	phone: 1230714070.	streetAddress: Dan's address
+name:    Gad.	email:       Gad@domain.com.	fax: 0923741070.	phone: 0981734270.	streetAddress: Gad's address
+name:   Levi.	email:      Levi@domain.com.	fax: 1236014011.	phone: 0912737107.	streetAddress: Levi's address
+name: Naftali.	email:   Naftali@domain.com.	fax: 1093470147.	phone: 4730910021.	streetAddress: Naftali's address
+name: Reuvven.	email:   Reuvven@domain.com.	fax: 1403280397.	phone: 0123701092.	streetAddress: Reuvven's address
+name: Shim'on.	email:   Shim'on@domain.com.	fax: 1909410909.	phone: 7481270129.	streetAddress: Shim'on's address
+name: Yehudah.	email:   Yehudah@domain.com.	fax: 2039704710.	phone: 1239481709.	streetAddress: Yehudah's address
+name: Yisachar.	email:  Yisachar@domain.com.	fax: 9213741032.	phone: 9827197409.	streetAddress: Yisachar's address
+name: Yossef.	email:    Yossef@domain.com.	fax: 1423010109.	phone: 3487109018.	streetAddress: Yossef's address
+name: Zevulun.	email:   Zevulun@domain.com.	fax: 2809174017.	phone: 1287170912.	streetAddress: Zevulun's address
+
+change Gad's data
+name:    Gad.	email:                  N/A.	fax:        N/A.	phone:        N/A.	streetAddress: N/A
+
+Remove Gad
+Gad is not found in the phone-book!
+
+The all people in the phone-book are:
+-------------------------------------
+
+name:  Asher.	email:     Asher@domain.com.	fax: 4347120347.	phone: 0984713270.	streetAddress: Asher's address
+name: Binyamin.	email:  Binyamin@domain.com.	fax: 1701270012.	phone: 1928740914.	streetAddress: Binyamin's address
+name:    Dan.	email:       Dan@domain.com.	fax: 0287404708.	phone: 1230714070.	streetAddress: Dan's address
+name:   Levi.	email:      Levi@domain.com.	fax: 1236014011.	phone: 0912737107.	streetAddress: Levi's address
+name: Naftali.	email:   Naftali@domain.com.	fax: 1093470147.	phone: 4730910021.	streetAddress: Naftali's address
+name: Reuvven.	email:   Reuvven@domain.com.	fax: 1403280397.	phone: 0123701092.	streetAddress: Reuvven's address
+name: Shim'on.	email:   Shim'on@domain.com.	fax: 1909410909.	phone: 7481270129.	streetAddress: Shim'on's address
+name: Yehudah.	email:   Yehudah@domain.com.	fax: 2039704710.	phone: 1239481709.	streetAddress: Yehudah's address
+name: Yisachar.	email:  Yisachar@domain.com.	fax: 9213741032.	phone: 9827197409.	streetAddress: Yisachar's address
+name: Yossef.	email:    Yossef@domain.com.	fax: 1423010109.	phone: 3487109018.	streetAddress: Yossef's address
+name: Zevulun.	email:   Zevulun@domain.com.	fax: 2809174017.	phone: 1287170912.	streetAddress: Zevulun's address
+

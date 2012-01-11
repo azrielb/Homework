@@ -1,0 +1,98 @@
+B.H.
+
+Please insert a name of a library in the city: The library has been inserted successfully.
+
+Do you want to add another library (yes/no)? 
+Please insert a name of a library in the city: The library has been inserted successfully.
+
+Do you want to add another library (yes/no)? 
+Please insert a name of a library in the city: The library has been inserted successfully.
+
+Do you want to add another library (yes/no)? 
+Please insert a name of a library in the city: The library has been inserted successfully.
+
+Do you want to add another library (yes/no)? 
+Please insert a name of a resident for the library: 
+Please insert male/female: 
+Does this resident have a job (yes/no)? 
+Plaese insert the birth-date, seperated by slashesPlease insert an israeli ID.
+Client no. 1 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Please insert a name of a resident for the library: 
+Please insert male/female: 
+Does this resident have a job (yes/no)? 
+Plaese insert the birth-date, seperated by slashesPlease insert an israeli ID.
+Client no. 2 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Please insert a name of a resident for the library: 
+Please insert male/female: 
+Does this resident have a job (yes/no)? 
+Plaese insert the birth-date, seperated by slashesPlease insert an israeli ID.
+The user 'res3' has been added to the library 'lib1'.
+The user 'res2' has been added to the library 'lib1'.
+The user 'res1' has been added to the library 'lib1'.
+The user 'res3' has been added to the library 'lib2'.
+The user 'res2' has been added to the library 'lib2'.
+The user 'res1' has been added to the library 'lib2'.
+The user 'res3' has been added to the library 'lib3'.
+The user 'res2' has been added to the library 'lib3'.
+The user 'res1' has been added to the library 'lib3'.
+The user 'res3' has been added to the library 'lib4'.
+The user 'res2' has been added to the library 'lib4'.
+The user 'res1' has been added to the library 'lib4'.
+Client no. 3 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Please insert a name of a resident for the library: 
+Please insert male/female: 
+Does this resident have a job (yes/no)? 
+Plaese insert the birth-date, seperated by slashesPlease insert an israeli ID.
+Client no. 4 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Library name: lib1.
+The library containes:
+
+3 clients:
+Client ID: 3. Name: res3. He was born in 1/1/2001 12:00:00 AM. Resident ID: 34. He has no job. This user has no books.
+Client ID: 2. Name: res2. She was born in 8/8/2008 12:00:00 AM. Resident ID: 26. She has no job. This user has no books.
+Client ID: 1. Name: res1. He was born in 11/11/2011 12:00:00 AM. Resident ID: 18. He has a job. This user has no books.
+
+0 books:
+
+
+Library name: lib2.
+The library containes:
+
+3 clients:
+Client ID: 3. Name: res3. He was born in 1/1/2001 12:00:00 AM. Resident ID: 34. He has no job. This user has no books.
+Client ID: 2. Name: res2. She was born in 8/8/2008 12:00:00 AM. Resident ID: 26. She has no job. This user has no books.
+Client ID: 1. Name: res1. He was born in 11/11/2011 12:00:00 AM. Resident ID: 18. He has a job. This user has no books.
+
+0 books:
+
+
+Library name: lib3.
+The library containes:
+
+3 clients:
+Client ID: 3. Name: res3. He was born in 1/1/2001 12:00:00 AM. Resident ID: 34. He has no job. This user has no books.
+Client ID: 2. Name: res2. She was born in 8/8/2008 12:00:00 AM. Resident ID: 26. She has no job. This user has no books.
+Client ID: 1. Name: res1. He was born in 11/11/2011 12:00:00 AM. Resident ID: 18. He has a job. This user has no books.
+
+0 books:
+
+
+Library name: lib4.
+The library containes:
+
+3 clients:
+Client ID: 3. Name: res3. He was born in 1/1/2001 12:00:00 AM. Resident ID: 34. He has no job. This user has no books.
+Client ID: 2. Name: res2. She was born in 8/8/2008 12:00:00 AM. Resident ID: 26. She has no job. This user has no books.
+Client ID: 1. Name: res1. He was born in 11/11/2011 12:00:00 AM. Resident ID: 18. He has a job. This user has no books.
+
+0 books:
+
+Good bye...

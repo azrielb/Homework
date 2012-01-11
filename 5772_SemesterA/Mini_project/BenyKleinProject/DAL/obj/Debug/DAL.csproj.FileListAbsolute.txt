@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\bin\Debug\DAL.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\bin\Debug\BE.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\bin\Debug\BE.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\obj\Debug\DAL.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\dotNet2012_miniProject_9093_8383\DAL\obj\Debug\DAL.pdb

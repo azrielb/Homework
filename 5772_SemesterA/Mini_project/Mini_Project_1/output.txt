@@ -1,0 +1,145 @@
+B.H.
+The time now is: 11/19/2011 9:23:40 PM
+
+
+Please insert a name of a client for the library: Client no. 1 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Please insert a name of a client for the library: Client no. 2 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Please insert a name of a client for the library: Client no. 3 has been inserted successfully.
+
+Do you want to add another client (yes/no)? 
+Please insert a name of a book for the library: Please insert a name of the book's author: 
+The books in our library are from this types:
+0. Unknown	1. Enrichment	2. Reading	
+Please insert the book's type number: 
+Book no. 1 has been inserted successfully.
+How much copies of this book exist in the library (at least one)? Do you want to add another book (yes/no)? 
+Please insert a name of a book for the library: Please insert a name of the book's author: 
+The books in our library are from this types:
+0. Unknown	1. Enrichment	2. Reading	
+Please insert the book's type number: 
+Book no. 2 has been inserted successfully.
+How much copies of this book exist in the library (at least one)? Do you want to add another book (yes/no)? 
+Please insert a name of a book for the library: Please insert a name of the book's author: 
+The books in our library are from this types:
+0. Unknown	1. Enrichment	2. Reading	
+Please insert the book's type number: 
+
+The reading-books in our library are from this categories:
+0. Unknown	1. ActionAdventure	2. Detective	3. Horror	4. Mystery	5. ScienceFiction	6. Western	7. Inspirational	8. Comics	
+Please insert the book's category number: 
+Book no. 3 has been inserted successfully.
+How much copies of this book exist in the library (at least one)? Do you want to add another book (yes/no)? 
+Please insert a name of a book for the library: Please insert a name of the book's author: 
+The books in our library are from this types:
+0. Unknown	1. Enrichment	2. Reading	
+Please insert the book's type number: 
+
+The reading-books in our library are from this categories:
+0. Unknown	1. ActionAdventure	2. Detective	3. Horror	4. Mystery	5. ScienceFiction	6. Western	7. Inspirational	8. Comics	
+Please insert the book's category number: 
+Invalid book category! 
+Do you want to add another book (yes/no)? 
+The library containes:
+
+3 clients:
+Client ID: 1. Client name: cli1. This user has no books.
+Client ID: 2. Client name: cli2. This user has no books.
+Client ID: 3. Client name: cli3. This user has no books.
+
+3 books:
+ID: 1. Book name: book1. Author: Unknown. Copies: 1.
+ID: 2. Book name: book2. Author: author2. Copies: 3. Last borrowing: 11/19/2011 9:23:40 PM.
+ID: 3. Book name: book3. Author: The author of the 3rd book. Copies: 98. Category: Unknown. Last borrowing: 11/19/2011 9:23:40 PM.
+
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+Insert client-ID: Insert book-ID: You want to borrow an enrichment-book. Therefore you have to put a deposit 100 NIS.
+If you want to do it with a credit-card or with a check - insert its number.
+If you want to cancel the borowwing - insert "-1".
+Invalid number. You can't borrow this book without a deposit!
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+Insert client-ID: Insert book-ID: You want to borrow an enrichment-book. Therefore you have to put a deposit 100 NIS.
+If you want to do it with a credit-card or with a check - insert its number.
+If you want to cancel the borowwing - insert "-1".
+If this is a credit-card number - insert the year of expiration
+If this is a check number - insert 0.
+OK, your deposit (100NIS) was received and you have to return the book until 11/21/2011 9:23:40 PM. 
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+Insert client-ID: Insert book-ID: OK, please do not forget to return the book.
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+Insert client-ID: Insert book-ID: You have no permission to take more than 2 books! 
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+Insert client-ID: Insert book-ID: The book was not taken by this user! 
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+
+The library containes:
+
+3 clients:
+Client ID: 1. Client name: cli1. This user has no books.
+Client ID: 2. Client name: cli2. Book1 ID: 2 Book2 ID: 1
+Client ID: 3. Client name: cli3. This user has no books.
+
+3 books:
+ID: 1. Book name: book1. Author: Unknown. Copies: 1.
+ID: 2. Book name: book2. Author: author2. Copies: 3. Last borrowing: 11/19/2011 9:23:40 PM. Check number: 2.
+ID: 3. Book name: book3. Author: The author of the 3rd book. Copies: 98. Category: Unknown. Last borrowing: 11/19/2011 9:23:40 PM.
+
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+Insert client-ID: Insert book-ID: The book has been returned successfully. 
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+
+The library containes:
+
+3 clients:
+Client ID: 1. Client name: cli1. This user has no books.
+Client ID: 2. Client name: cli2. Book1 ID: 1
+Client ID: 3. Client name: cli3. This user has no books.
+
+3 books:
+ID: 1. Book name: book1. Author: Unknown. Copies: 1.
+ID: 2. Book name: book2. Author: author2. Copies: 3. Last borrowing: 11/19/2011 9:23:40 PM.
+ID: 3. Book name: book3. Author: The author of the 3rd book. Copies: 98. Category: Unknown. Last borrowing: 11/19/2011 9:23:40 PM.
+
+
+If you want to boroow a book - Insert 1 or "b".
+If you want to return a book - Insert 2 or "r".
+If you want to get information of the library - Insert 3 or "i".
+If you have finished - Insert 0 or "f".
+The time now is: 11/19/2011 9:23:40 PM
+
+Good bye...
