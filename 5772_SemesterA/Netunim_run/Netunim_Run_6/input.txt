@@ -1,7 +1,0 @@
-1 a 1 b 1 c 1 d 1 e
-3 a b 3 a c 3 a d 3 a e 3 b a 3 e a 3 b e 3 a a 3 c c
-6
-5 b d 5 b b 5 c d 5 d c
-2 a 5 b b 6
-4 c c 6
-exit
